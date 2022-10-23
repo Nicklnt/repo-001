@@ -24,5 +24,7 @@ int main(int argc, char **argv)
 
 	printf("Hello");
 
+	printf("\nAdding a comment...");
+
 	return 0;
 }
